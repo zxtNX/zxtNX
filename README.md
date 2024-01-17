@@ -1,2 +1,1 @@
-Nothing here.
-<!-- [![zxtNX's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxtNX)](https://github.com/zxtNX/github-readme-stats) -->
+[![zxtNX's GitHub stats](https://github-readme-stats-one-neon-80.vercel.app/api?username=zxtNX&show_icons=true&hide_border=true)](https://github.com/zxtNX/github-readme-stats)
