@@ -11,6 +11,9 @@ Eager to enhance, create, and harden systems that will help us get rid of cheate
 - REVERSE-ENGINEERING
 - BINARY EXPLOITATION
 - GAME SECURITY & GAME HACKING
+- WINDOWS INTERNALS
+- VIRTUALIZATION
+- WINDOWS KERNEL PROGRAMMING
 - C++ & ASM x86_64
 - UE5
 
