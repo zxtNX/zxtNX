@@ -12,6 +12,7 @@ Eager to enhance, create, and harden systems that will help us get rid of cheate
 - BINARY EXPLOITATION
 - GAME SECURITY & GAME HACKING
 - C++ & ASM x86_64
+- UE5
 
 # DPS METER
 Well... SADLY my current DPS isn't that high, maybe I should display my private works?
