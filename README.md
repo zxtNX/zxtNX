@@ -1,3 +1,11 @@
+# Who is this random guy?!
+Uh. Don't say that! 
+"Hello world", I'm an aspiring Anti-Cheat Engineer with a strong passion for game security and internals. Currently honing my skills by developing and analyzing cheats to understand potential vulnerabilities and devise robust defenses.
+
+By exploring, digging and simulating various cheating methods while learning internals, I aim without a bot (did you get this one? ;) ;) ;) funny?...) to create secure and enjoyable gaming environments.
+
+Eager to enhance, create, and harden systems that will help us get rid of cheaters.
+
 # Refining Expertise
 
 - REVERSE-ENGINEERING
