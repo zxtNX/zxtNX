@@ -14,7 +14,7 @@ Eager to enhance, create, and harden systems that will help us get rid of cheate
 - WINDOWS INTERNALS
 - VIRTUALIZATION
 - WINDOWS KERNEL PROGRAMMING
-- C++ & ASM x86_64
+- C++ & ASM x86_64 (and now I will ALSO need to learn ARM thanks to Windows switching to it lol)
 - UE5
 
 # DPS METER
