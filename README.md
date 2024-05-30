@@ -25,6 +25,7 @@ Eager to enhance, create, and harden systems that will help us get rid of cheate
 - Reversing: Secrets of Reverse Engineering                  - NOT LEARNED
 - Malware Analyst Cookbook                                   - NOT LEARNED
 - IDA Pro Book                                               - PARTIALLY LEARNED
+- ARM Assembly Internals & Reverse Engineering               - NOT LEARNED
 
 **[Windows Internals & Kernel Development]**
 - Windows Internals, Part 1 (7th Edition)                    - NOT LEARNED
