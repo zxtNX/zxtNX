@@ -10,6 +10,7 @@ Eager to enhance, create, and harden systems that will help us get rid of cheate
 
 - REVERSE-ENGINEERING
 - BINARY EXPLOITATION
+- FORENSICS
 - GAME SECURITY & GAME HACKING
 - WINDOWS INTERNALS
 - VIRTUALIZATION
