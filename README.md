@@ -37,7 +37,7 @@ Eager to enhance, create, and harden systems that will help us get rid of cheate
 **[More linked useful books]**
 - Attacking Network Protocols                                - NOT LEARNED
 - Compilers Principles Techniques and Tools (2nd Edition)    - NOT LEARNED
-- The Art of Memory Forensics                                - NOT LEARNED
+- The Art of Memory Forensics                                - CURRENTLY LEARNING
 - Malware Data Science                                       - NOT LEARNED
 
 **If you have any suggestion for my journey contact me through LinkedIn!**
