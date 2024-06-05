@@ -32,6 +32,7 @@ Eager to enhance, create, and harden systems that will help us get rid of cheate
 - Windows Internals, Part 1 (7th Edition)                    - NOT LEARNED
 - Windows Internals, Part 2 (7th Edition)                    - NOT LEARNED
 - Windows Kernel Programming                                 - NOT LEARNED
+- Windows Security Internals                                 - NOT LEARNED
 
 **[More linked useful books]**
 - Attacking Network Protocols                                - NOT LEARNED
