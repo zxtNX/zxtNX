@@ -1,10 +1,8 @@
 # Who is this random guy?!
 Uh. Don't say that! 
-"Hello world", I'm an aspiring Anti-Cheat Engineer with a strong passion for game security and internals. Currently honing my skills by developing and analyzing cheats to understand potential vulnerabilities and devise robust defenses.
+"Hello world", I'm an aspiring malware/vulnerability hunter with a strong passion for security and internals. Currently honing my skills by developing and analyzing softwares to understand potential vulnerabilities and devise robust defenses by exploring, digging and simulating various exploit methods while learning internals.
 
-By exploring, digging and simulating various cheating methods while learning internals, I aim without a bot (did you get this one? ;) ;) ;) funny?...) to create secure and enjoyable gaming environments.
-
-Eager to enhance, create, and harden systems that will help us get rid of cheaters.
+Eager to enhance, create, and harden systems that will help us get an edge from threats and APTs.
 
 # Refining Expertise
 
@@ -15,21 +13,21 @@ Eager to enhance, create, and harden systems that will help us get rid of cheate
 - WINDOWS INTERNALS
 - VIRTUALIZATION
 - WINDOWS KERNEL PROGRAMMING
-- C++ & ASM x86_64 (and now I will ALSO need to learn ARM thanks to Windows switching to it lol)
+- C++ & ASM x86_64 (and now I'm also learning ARM64 thanks to Windows switching to it lol)
 - UE5
 
 # Reading Books List
 **[Reverse Engineering]**
 - Practical Malware Analysis                                 - CURRENTLY LEARNING
 - Practical Reverse Engineering                              - NOT LEARNED
-- Practical Binary Analysis                                  - CURRENTLY LEARNING
+- Practical Binary Analysis                                  - NOT LEARNED
 - Reversing: Secrets of Reverse Engineering                  - NOT LEARNED
 - Malware Analyst Cookbook                                   - NOT LEARNED
 - IDA Pro Book                                               - PARTIALLY LEARNED
 - ARM Assembly Internals & Reverse Engineering               - NOT LEARNED
 
 **[Windows Internals & Kernel Development]**
-- Windows Internals, Part 1 (7th Edition)                    - NOT LEARNED
+- Windows Internals, Part 1 (7th Edition)                    - CURRENTLY LEARNING
 - Windows Internals, Part 2 (7th Edition)                    - NOT LEARNED
 - Windows Kernel Programming                                 - NOT LEARNED
 - Windows Security Internals                                 - NOT LEARNED
