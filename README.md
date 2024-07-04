@@ -1,6 +1,6 @@
 # Who is this random guy?!
 Uh. Don't say that! 
-"Hello world", I'm an aspiring malware/vulnerability hunter with a strong passion for security and internals. Currently honing my skills by developing and analyzing softwares to understand potential vulnerabilities and devise robust defenses by exploring, digging and simulating various exploit methods while learning internals.
+"Hello world", I'm someone with strong passion for security and internals. Currently honing my skills by developing and analyzing softwares to understand potential vulnerabilities and devise robust defenses by exploring, digging and simulating various exploit methods while learning internals.
 
 Eager to enhance, create, and harden systems that will help us get an edge from threats and APTs.
 
@@ -35,7 +35,7 @@ Eager to enhance, create, and harden systems that will help us get an edge from 
 **[More linked useful books]**
 - Attacking Network Protocols                                - NOT LEARNED
 - Compilers Principles Techniques and Tools (2nd Edition)    - NOT LEARNED
-- The Art of Memory Forensics                                - CURRENTLY LEARNING
+- The Art of Memory Forensics                                - CURRENTLY LEARNING (I'm at Windows Part)
 - Malware Data Science                                       - NOT LEARNED
 
 **If you have any suggestion for my journey contact me through LinkedIn!**
