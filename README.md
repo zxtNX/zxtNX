@@ -19,8 +19,8 @@ Eager to enhance, create, and harden systems that will help us get an edge from 
 # Reading Books List
 **[Reverse Engineering]**
 - Practical Malware Analysis                                 - CURRENTLY LEARNING
-- Practical Reverse Engineering                              - NOT LEARNED
-- Practical Binary Analysis                                  - NOT LEARNED
+- Practical Reverse Engineering                              - CURRENTLY LEARNING
+- Practical Binary Analysis                                  - CURRENTLY LEARNING
 - Reversing: Secrets of Reverse Engineering                  - NOT LEARNED
 - Malware Analyst Cookbook                                   - NOT LEARNED
 - IDA Pro Book                                               - PARTIALLY LEARNED
@@ -29,7 +29,7 @@ Eager to enhance, create, and harden systems that will help us get an edge from 
 **[Windows Internals & Kernel Development]**
 - Windows Internals, Part 1 (7th Edition)                    - CURRENTLY LEARNING
 - Windows Internals, Part 2 (7th Edition)                    - NOT LEARNED
-- Windows Kernel Programming                                 - NOT LEARNED
+- Windows Kernel Programming                                 - CURRENTLY LEARNING
 - Windows Security Internals                                 - NOT LEARNED
 
 **[More linked useful books]**
