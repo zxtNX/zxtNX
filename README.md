@@ -1,30 +1,17 @@
 # Who is this random guy?!
 Uh. Don't say that! 
-"Hello world", I'm someone with strong passion for security and internals. Currently honing my skills by developing and analyzing softwares to understand potential vulnerabilities and devise robust defenses by exploring, digging and simulating various exploit methods while learning internals.
-
-Eager to enhance, create, and harden systems that will help us get an edge from threats and APTs.
+"Hello world", I'm someone with strong passion for security and internals. Currently honing my skills by digging and reading books.
 
 # Refining Expertise
 
-- REVERSE-ENGINEERING
-- BINARY EXPLOITATION
+- CTFs
 - FORENSICS
-- GAME SECURITY & GAME HACKING
 - WINDOWS INTERNALS
-- VIRTUALIZATION
 - WINDOWS KERNEL PROGRAMMING
 - C++ & ASM x86_64 (and now I'm also learning ARM64 thanks to Windows switching to it lol)
 - UE5
 
 # Reading Books List
-**[Reverse Engineering]**
-- Practical Malware Analysis                                 - CURRENTLY LEARNING
-- Practical Reverse Engineering                              - CURRENTLY LEARNING
-- Practical Binary Analysis                                  - CURRENTLY LEARNING
-- Reversing: Secrets of Reverse Engineering                  - NOT LEARNED
-- Malware Analyst Cookbook                                   - NOT LEARNED
-- IDA Pro Book                                               - PARTIALLY LEARNED
-- ARM Assembly Internals & Reverse Engineering               - NOT LEARNED
 
 **[Windows Internals & Kernel Development]**
 - Windows Internals, Part 1 (7th Edition)                    - CURRENTLY LEARNING
