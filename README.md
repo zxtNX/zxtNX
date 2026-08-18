@@ -2,6 +2,7 @@
 
 - CTFs
 - FORENSICS
+- RE & VR
 - WINDOWS INTERNALS
 - WINDOWS KERNEL PROGRAMMING
 - C++ & ASM x86_64 (and now I'm also learning ARM64 thanks to Windows switching to it lol)
