@@ -1,7 +1,3 @@
-# Who is this random guy?!
-Uh. Don't say that! 
-"Hello world", I'm someone with strong passion for security and internals. Currently honing my skills by digging and reading books.
-
 # Refining Expertise
 
 - CTFs
